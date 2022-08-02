@@ -1,16 +1,5 @@
-# SoftwareDesignPattern
+#Sergey_Kamenetsky SoftwareDesignPattern 
 
-Все видео [#profcsharp](https://www.youtube.com/hashtag/profcsharp) на [youtube](https://www.youtube.com/hashtag/profcsharp)  
-[Telegram канал](http://ksergey.ru/profcsharp/)
-
-Кратко обо всех паттернах [смотреть](https://youtu.be/VCNcgR0PHpU)  
-Сложение двух чисел [смотреть](https://youtu.be/07W9SLmoV-Q)
-
-Видео, на которые стоит обратить внимание перед изучением паттернов  
-[SOLID](https://youtube.com/playlist?list=PLsV7KW4r_oBBerr7Fjazux9P4yyVZEGhM) принципы  
-[ООП](https://www.youtube.com/watch?v=Jdzp4_AHFPE&list=PLsV7KW4r_oBCJc9q1fA5UDJ41tYgwdfyt&index=1)  
-Fluent interface на [примере методов](https://www.youtube.com/watch?v=Pf2Xab-vGa4&list=PLsV7KW4r_oBDh1AGGMfzq_PauWWnKmhAC&index=1)  
-Отличия классов от структур и от записей C# [смотреть](https://youtu.be/4JBjBGztMso)  
 
 ## • Шаблоны, на которые я бы обратил внимание при подготовке к собеседованию  
 
