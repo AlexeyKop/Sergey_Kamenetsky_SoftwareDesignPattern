@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrototypeIntro.Infrastructure.Repository">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAwBABAAABA=</HashCode>
+      <FileName>Infrastructure\Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeIntro.Models.ReferenceModel">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAEAAAAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ReferenceModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeIntro.Prototype.Prototype">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBA=</HashCode>
+      <FileName>Prototype\Prototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeIntro.Prototype.SpecificPrototype">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Prototype\SpecificPrototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrototypeIntro.Program">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PrototypeIntro.Models.ValueModel">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAEAAAAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ValueModel.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

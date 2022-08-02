@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarDecorator.Decorator.Configurator.AudiAmbientLight" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\Configurator\AudiAmbientLight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Decorator.Configurator.AudiColorVesuviusGrayMetallic" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\Configurator\AudiColorVesuviusGrayMetallic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Decorator.Configurator.AudiMatrixLed" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\Configurator\AudiMatrixLed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Decorator.AudiDecorator" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorator\AudiDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Cars.Audi" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAAAAgAAABAAAA=</HashCode>
+      <FileName>Cars\Audi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Cars.AudiA4" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cars\AudiA4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarDecorator.Cars.AudiA6" Collapsed="true">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cars\AudiA6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CarDecorator.Decorator.Configurator.ExteriorColors" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABIAAAIAAAABAAQABAAQAAgABAAAAAAAAAAAKAg=</HashCode>
+      <FileName>Colors\ExteriorColors.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

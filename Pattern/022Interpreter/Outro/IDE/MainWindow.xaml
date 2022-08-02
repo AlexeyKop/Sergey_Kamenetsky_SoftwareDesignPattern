@@ -1,0 +1,55 @@
+﻿<Window x:Class="IDE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IDE"
+        mc:Ignorable="d"
+        Title="IDE Like Interpreter" 
+        MinHeight="500"
+        WindowStartupLocation="CenterScreen"
+        MinWidth="900"
+        Background="#2d2d2d">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="buildBtn" Background="#2d2d2d" 
+                Grid.ColumnSpan="1"
+                Margin="5">
+            <Polygon Width="20"             
+                     Points="0 2,0,0 2,1"
+                     Fill="#8ed28a"
+                     Stretch="Fill"
+                     Stroke="#8ed28a"
+                     StrokeThickness="1"/>
+        </Button>
+        <TextBlock x:Name="errorBlock"
+                   Background="#ffffff" 
+                   Grid.ColumnSpan="2"
+                   Grid.Column="1"
+                   Margin="5"/>
+        <TextBox x:Name="tb"
+                 Grid.Row="1" 
+                 Text="like = 2021; &#xA;subscribe := lake;&#xA;Write (like + subscrib)*(10-5);"/>
+        <TextBox x:Name="output"
+                 Grid.Row="1"
+                 Text="" 
+                 IsEnabled="False"
+                 Grid.Column="1" />
+        <TextBox Grid.Row="1"
+                 Grid.Column="2"
+                  
+                 Text="{Binding ElementName=tb,
+                                Path=Text,
+                                Converter={StaticResource MalbolgeConverter},
+                                UpdateSourceTrigger=PropertyChanged,
+                                Mode=TwoWay}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleDecorator.Caffe.Pizza.ParmesanPizza" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\ParmesanPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Pepperoni" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Pepperoni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Margherita" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Margherita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.DoublePepperoni" Collapsed="true">
+    <Position X="11" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\DoublePepperoni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.ParmesanPepperPizza" Collapsed="true">
+    <Position X="1.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddPeper\ParmesanPeperPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.PepperoniPepper" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddPeper\PepperoniPeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.MargheritaPepper" Collapsed="true">
+    <Position X="14.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddPeper\MargheritaPeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.DoublePepperoniPepper" Collapsed="true">
+    <Position X="12.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddPeper\DoublePepperoniPeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnion.DoublePepperoniOnion" Collapsed="true">
+    <Position X="10" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnion\DoublePepperoniOnion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnion.ParmesanPizzaOnion" Collapsed="true">
+    <Position X="4" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnion\ParmesanPizzaOnion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnion.PepperoniOnoio" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnion\PepperoniOnoio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnion.MargheritaOnion" Collapsed="true">
+    <Position X="16.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnion\MargheritaOnion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnionPepper.ParmesanPepperPizzaOnoin" Collapsed="true">
+    <Position X="1.75" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnionPeper\ParmesanPeperPizzaOnoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnionPepper.PepperoniPepperOnoin" Collapsed="true">
+    <Position X="8.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnionPeper\PepperoniPeperOnoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnionPepper.MargheritaPepperOnion" Collapsed="true">
+    <Position X="14.5" Y="6" Width="2.25" />
+    <InheritanceLine Type="SimpleDecorator.Caffe.Pizza.MargheritaPepper" FixedFromPoint="true">
+      <Path>
+        <Point X="15.625" Y="5.738" />
+        <Point X="15.625" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnionPeper\MargheritaPeperOnion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Pizza.Additive.AddOnionPepper.DoublePepperoniPepperOnion" Collapsed="true">
+    <Position X="11.75" Y="6" Width="2.5" />
+    <InheritanceLine Type="SimpleDecorator.Caffe.Pizza.DoublePepperoniPepper" FixedFromPoint="true">
+      <Path>
+        <Point X="13" Y="5.738" />
+        <Point X="13" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\Additive\AddOnionPeper\DoublePepperoniPeperOnion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.BasePizza" Collapsed="true">
+    <Position X="9.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Pizza\BasePizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

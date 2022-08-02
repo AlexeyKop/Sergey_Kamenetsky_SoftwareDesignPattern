@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LanguageInterpreterLibrary.Demo" Collapsed="true">
+    <Position X="2" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Demo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.ArithmeticOperation" Collapsed="true">
+    <Position X="6.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Symbols\ArithmeticOperation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.AvailableSymbol" Collapsed="true">
+    <Position X="9.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Symbols\AvailableSymbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.Binary" Collapsed="true">
+    <Position X="7.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAIAA=</HashCode>
+      <FileName>Symbols\Binary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.Integer" Collapsed="true">
+    <Position X="14" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Symbols\Integer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.Symbol" Collapsed="true">
+    <Position X="9.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Symbols\Symbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.Unary" Collapsed="true">
+    <Position X="5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAA=</HashCode>
+      <FileName>Symbols\Unary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Symbols.Variable" Collapsed="true">
+    <Position X="11.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Symbols\Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Types.TypeList" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Types\TypeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.TokenInfo.Token" Collapsed="true">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>TokenInfo\Token.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.TokenInfo.TokenId" Collapsed="true">
+    <Position X="2" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQACAAAA=</HashCode>
+      <FileName>TokenInfo\TokenId.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.ExpressionProcessingException" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\ExpressionProcessingException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.GetTokenException" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\GetTokenException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.InterpreterException" Collapsed="true">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAA=</HashCode>
+      <FileName>Exceptions\InterpreterException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.TakeTokenException" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\TakeTokenException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.TerminalProcessingException" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\TerminalProcessingException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.TokenizerException" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\TokenizerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.VariableNotFoundException" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\VariableNotFoundException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Exceptions.VariableOrIntegerProcessingException" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\VariableOrIntegerProcessingException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Analyzers.Parser" Collapsed="true">
+    <Position X="3.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAAgACCAAAAAAAAIAIAAAIAAAAAAAAAUAAAABAII=</HashCode>
+      <FileName>Analyzers\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LanguageInterpreterLibrary.Analyzers.Tokenizer" Collapsed="true">
+    <Position X="3.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQEAAAAAAAAAAAAAAAAAAAAAACAAAAAABAABAAA=</HashCode>
+      <FileName>Analyzers\Tokenizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

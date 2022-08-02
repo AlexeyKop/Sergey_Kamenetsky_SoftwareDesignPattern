@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleDecorator.Caffe.DecoratorOfT.Pizza" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\DecoratorOfT\Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.Cheese" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\Cheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.ChickenPizza" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\ChickenPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.FishPizza" Collapsed="true">
+    <Position X="18" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\FishPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.MeatPizza" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\MeatPizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.Olives" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\Olives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleDecorator.Caffe.Decorator.Pizza" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caffe\Decorator\Pizza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

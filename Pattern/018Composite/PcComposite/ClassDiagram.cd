@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PcComposite.Helper.GenerationGuid" Collapsed="true">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\GenerationGuid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.CommonUnits.ElectricalWiring" Collapsed="true">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\CommonUnits\ElectricalWiring.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.CPUNodes.ArithmeticLogicUnit" Collapsed="true">
+    <Position X="9.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\CPUNodes\ArithmeticLogicUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.CPUNodes.CPU" Collapsed="true">
+    <Position X="17.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\CPUNodes\CPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.CPUNodes.ProcessorRegister" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\CPUNodes\ProcessorRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.MotherboardNodes.MCA" Collapsed="true">
+    <Position X="14.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\MotherboardNodes\MCA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.MotherboardNodes.Motherboard" Collapsed="true">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\MotherboardNodes\Motherboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.MotherboardNodes.PCIExpress" Collapsed="true">
+    <Position X="16.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\MotherboardNodes\PCIExpress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.MotherboardNodes.СomputerBus" Collapsed="true">
+    <Position X="15.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\MotherboardNodes\СomputerBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.PowerSupplyNodes.PowerSupply" Collapsed="true">
+    <Position X="19" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\PowerSupplyNodes\PowerSupply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.RAMNodes.RAM" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\RAMNodes\RAM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.VideoCardNodes.VideoCard" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\VideoCardNodes\VideoCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Nodes.Computer" Collapsed="true">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Nodes\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.LowLevelComponent" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAEAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\LowLevelComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.TopLevelComponent" Collapsed="true">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAAAAAAEQgAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Units\TopLevelComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Units.Unit" Collapsed="true">
+    <Position X="15" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABBAAAAAAAAAAAAAEAgAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Units\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcComposite.Exceptions.NotTopLevelComponentException" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\NotTopLevelComponentException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

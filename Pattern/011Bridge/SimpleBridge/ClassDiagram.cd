@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleBridge.Shape" Collapsed="true">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.Rectangle" Collapsed="true">
+    <Position X="2.75" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Shape" FixedFromPoint="true">
+      <Path>
+        <Point X="2.25" Y="5.812" />
+        <Point X="2.49" Y="5.812" />
+        <Point X="2.49" Y="9.119" />
+        <Point X="2.75" Y="9.119" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.Circle" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Shape" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.25" Y="5.812" />
+        <Point X="2.75" Y="5.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.RedRectangle" Collapsed="true">
+    <Position X="4.75" Y="9.75" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Rectangle" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="9.062" />
+        <Point X="4.49" Y="9.062" />
+        <Point X="4.49" Y="10.119" />
+        <Point X="4.75" Y="10.119" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.GreenRectangle" Collapsed="true">
+    <Position X="4.75" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Rectangle" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="9.062" />
+        <Point X="4.75" Y="9.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.RedCircle" Collapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Circle" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="5.812" />
+        <Point X="4.49" Y="5.812" />
+        <Point X="4.49" Y="6.869" />
+        <Point X="4.75" Y="6.869" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.GreenCircle" Collapsed="true">
+    <Position X="4.75" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Circle" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="5.812" />
+        <Point X="4.75" Y="5.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.Square" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Shape" FixedFromPoint="true">
+      <Path>
+        <Point X="2.25" Y="5.812" />
+        <Point X="2.49" Y="5.812" />
+        <Point X="2.49" Y="2.619" />
+        <Point X="2.75" Y="2.619" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.RedSquare" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Square" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="2.625" />
+        <Point X="4.49" Y="2.625" />
+        <Point X="4.49" Y="3.625" />
+        <Point X="4.75" Y="3.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.GreenSquare" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Square" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="2.625" />
+        <Point X="4.75" Y="2.625" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.YellowSquare" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Square" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="2.625" />
+        <Point X="4.49" Y="2.625" />
+        <Point X="4.49" Y="1.688" />
+        <Point X="4.75" Y="1.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.YellowCircle" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Circle" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="5.812" />
+        <Point X="4.49" Y="5.812" />
+        <Point X="4.49" Y="4.869" />
+        <Point X="4.75" Y="4.869" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleBridge.YellowRectangle" Collapsed="true">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <InheritanceLine Type="SimpleBridge.Rectangle" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="9.062" />
+        <Point X="4.49" Y="9.062" />
+        <Point X="4.49" Y="8.119" />
+        <Point X="4.75" Y="8.119" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex41_InterfaceSegregationPrinciple.Car" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex41_InterfaceSegregationPrinciple.Audi.AudiA5" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\AudiA5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex41_InterfaceSegregationPrinciple.Audi.Audi" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Audi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex41_InterfaceSegregationPrinciple.Audi.MyAudiA5" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQAAAAAAAAAAAAAAAAQAAEAAAAAEAAAAAMAAAA=</HashCode>
+      <FileName>Audi\MyAudiA5.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Ex41_InterfaceSegregationPrinciple.Characteristic" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Characteristic.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IHeadlights" Collapsed="true">
+    <Position X="15.5" Y="8.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Audi\Package\IHeadlights.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IHeadlightsLed" Collapsed="true">
+    <Position X="6" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Audi\Package\IHeadlightsLed.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IHeadlightsMatrixLed" Collapsed="true">
+    <Position X="8.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IHeadlightsMatrixLed.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IPowerPanoramicSunroof" Collapsed="true">
+    <Position X="8.5" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Audi\Package\IPowerPanoramicSunroof.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiPreSenseFront" Collapsed="true">
+    <Position X="12.25" Y="10.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IAudiPreSenseFront.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAluminumDoorSillInlays" Collapsed="true">
+    <Position X="8.5" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IAluminumDoorSillInlays.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiConnect" Collapsed="true">
+    <Position X="14.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Audi\Package\IAudiConnect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.ISLine" Collapsed="true">
+    <Position X="12.5" Y="10" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Audi\Package\ISLine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiDesignSelection" Collapsed="true">
+    <Position X="6" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Audi\Package\IAudiDesignSelection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IInfotainment" Collapsed="true">
+    <Position X="9" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IInfotainment.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.ITowingPackage" Collapsed="true">
+    <Position X="9" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\ITowingPackage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiCare" Collapsed="true">
+    <Position X="16.25" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IAudiCare.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAmbientLighting" Collapsed="true">
+    <Position X="8.5" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\IAmbientLighting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines.IAdvanceLine" Collapsed="true">
+    <Position X="15.25" Y="10.75" Width="1.5" />
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiCare" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.5" Y="9.846" />
+        <Point X="16.5" Y="10.75" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiConnect" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.875" Y="9.846" />
+        <Point X="15.875" Y="10.75" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IHeadlights" FixedToPoint="true">
+      <Path>
+        <Point X="16.125" Y="9.096" />
+        <Point X="16.125" Y="10.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\Lines\IAdvanceLine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines.IDesignLine">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IHeadlightsMatrixLed" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="8.562" />
+        <Point X="10.75" Y="8.562" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IInfotainment" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="9.062" />
+        <Point X="10.75" Y="9.062" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.ITowingPackage" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="9.688" />
+        <Point X="10.75" Y="9.688" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\Lines\IDesignLine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines.ISportLine" Collapsed="true">
+    <Position X="13" Y="11.5" Width="1.5" />
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.ISLine" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.125" Y="10.596" />
+        <Point X="14.125" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiConnect" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.062" Y="9.846" />
+        <Point X="15.062" Y="11.176" />
+        <Point X="14.312" Y="11.176" />
+        <Point X="14.312" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.IAudiPreSenseFront" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.312" Y="11.346" />
+        <Point X="13.312" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\Lines\ISportLine.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines.IAudiExclusive" Collapsed="true">
+    <Position X="11.25" Y="11.5" Width="1.5" />
+    <InheritanceLine Type="Ex41_InterfaceSegregationPrinciple.Audi.Package.Lines.IDesignLine" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.438" Y="9.846" />
+        <Point X="11.438" Y="11.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi\Package\Lines\IAudiExclusive.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

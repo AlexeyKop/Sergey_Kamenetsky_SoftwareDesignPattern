@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex07_Adapter.Thunderbolt2PortToThunderbolt3Port">
+    <Position X="4" Y="6.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Thunderbolt2PortToThunderbolt3Port.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Cables.Thunderbolt2Cable">
+    <Position X="8.25" Y="7" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACA=</HashCode>
+      <FileName>Cables\Thunderbolt2Cable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Devices.Computer">
+    <Position X="4" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Devices\Computer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Devices.SoundCard">
+    <Position X="7.5" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Devices\SoundCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Ports.Thunderbolt2Port">
+    <Position X="4" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports\Thunderbolt2Port.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Ports.Thunderbolt3Port">
+    <Position X="4" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports\Thunderbolt3Port.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex07_Adapter.Data.DataThunderbolt">
+    <Position X="7.75" Y="3.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\DataThunderbolt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex06_Builder.Car.Engine" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Suspension" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Suspension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Body" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Body.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Unit">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Motorbike" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Motorbike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Bolide" Collapsed="true">
+    <Position X="8.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Bolide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Vehicle">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Car\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.MotorbikeEngin" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\MotorbikeEngin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.V8Engin" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\V8Engin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.Skateboard" Collapsed="true">
+    <Position X="13.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\Skateboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Car.NullUnit" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car\NullUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Builder.AbstractBuilder">
+    <Position X="2.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAIAEAAAAAAAAAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\AbstractBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Builder.MotorbikeBuilder" Collapsed="true">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAIAAACAAAAAAAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\MotorbikeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Builder.Engineer">
+    <Position X="11.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Engineer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Builder.BolideBuilder" Collapsed="true">
+    <Position X="5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAIAAAAAAAAAAAAAQAAAAAFAAAAAAAAA=</HashCode>
+      <FileName>Builder\BolideBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Builder.InternBuilder" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAAIAAAAAAAAAAAAAQAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\InternBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex06_Builder.Infrastructure.Repository">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\Repository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ex06_Builder.Infrastructure.TypeBuilder">
+    <Position X="14.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Infrastructure\TypeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

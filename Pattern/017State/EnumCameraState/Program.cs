@@ -1,0 +1,1 @@
+﻿new EnumCameraState.Camera().ButtonClick();

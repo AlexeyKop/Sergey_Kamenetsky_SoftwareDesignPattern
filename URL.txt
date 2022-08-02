@@ -1,0 +1,66 @@
+﻿
+
+
+Все видео #profcsharp https://www.youtube.com/hashtag/profcsharp
+
+Telegram http://ksergey.ru/profcsharp/
+
+Кратко обо всех паттернах https://youtu.be/VCNcgR0PHpU
+
+Сложение двух чисел https://youtu.be/07W9SLmoV-Q
+
+Видео, на которые стоит обратить внимание перед изучением паттернов
+SOLID Солид принципы https://youtube.com/playlist?list=PLsV7KW4r_oBBerr7Fjazux9P4yyVZEGhM
+Полиморфизм https://www.youtube.com/watch?v=7dDe3yGWZBo&list=PLsV7KW4r_oBCJc9q1fA5UDJ41tYgwdfyt&index=3
+Fluent pattern | interface https://www.youtube.com/watch?v=Pf2Xab-vGa4&list=PLsV7KW4r_oBDh1AGGMfzq_PauWWnKmhAC&index=1
+Отличия классов от структур и от записей https://youtu.be/4JBjBGztMso
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║ * Шаблоны, на которые я бы обратил внимание при подготовке к собеседованию ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+
+Порождающие шаблоны
+* Factory pattern | Фабрика паттерн | https://youtu.be/ZLUeQAekhkc
+* Builder pattern | Строитель Билдер паттерн | https://youtu.be/86LofUIbHgw
+* Prototype pattern | Прототип паттерн | https://youtu.be/e4mRDEynnDw
+Singleton pattern | Синглтон паттерн | https://youtu.be/rvbh1G5jC1I
+Дополнение
+Lazy initialization
+Double checked locking
+Object pool)
+
+
+Структурные шаблоны 
+Decorator pattern | Декоратор паттерн | https://youtu.be/BLSV3B7sp8M
+* Adapter pattern | Адаптер паттерн | https://youtu.be/6mJXV9m_cmQ
+* Facade pattern | Фасад паттерн | https://youtu.be/SusH5uiWvxw
+* Proxy pattern | Прокси паттерн | https://youtu.be/K8JiU2eKb50
+Composite pattern | Компоновщик паттерн | https://youtu.be/h2AvQ-Epd1I
+Bridge pattern | Мост https://youtu.be/ePbId3gENRo
+* Flyweight pattern | Приспособленец паттерн | https://youtu.be/mZ7OnzlSth0
+Дополнение
+Front controller
+
+
+Поведенческие шаблоны
+* Strategy pattern | Стратегия паттерн | https://youtu.be/Gn2XLfAdDxI
+* Observer pattern | Наблюдатель паттерн | https://youtu.be/8UUO81WB_5M
+* Command pattern | Команда паттерн | https://youtu.be/HXEtIt9hRrs
+Template Method pattern | Шаблонный метод паттерн | https://youtu.be/J4mD4mkTbog
+Iterator pattern | Итератор https://youtu.be/TMUf03QsPPM
+* State pattern | Состояние паттерн | https://youtu.be/oraxX9MTliQ
+* Chain of Responsibility pattern | Цепочка обязанностей цепочка ответственностей паттерн | https://youtu.be/OxJY5pNwFaY
+Interpreter pattern | Интерпретатор паттерн | https://youtu.be/nmjw6xdkakQ
+Mediator pattern | Посредник паттерн | https://youtu.be/1fyZokexZKI
+Memento pattern | Хранитель паттерн | https://youtu.be/5eNM5zpAbjM
+Visitor pattern | Посетитель паттерн | https://youtu.be/JtkVGWj-7Wg
+* Null Object pattern | https://youtu.be/XNfX3rIx0L0
+Дополнение
+Servant
+Specification (specification
+Simple Policy
+Single-serving visitor
+
+
+Поддержим?)  https://www.youtube.com/c/SergeyK?sub_confirmation=1

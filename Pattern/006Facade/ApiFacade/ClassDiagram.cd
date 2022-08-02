@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApiFacade.Program" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.Json.JsonSerialization" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Demo\Json\JsonSerialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.Infrastructure.TelegramData" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Infrastructure\TelegramData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.TelegramBase.TelegramNotApi" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TelegramBase\TelegramNotApi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.TelegramLib.Models.GetMeModel" Collapsed="true">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>TelegramLib\Models\GetMeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.TelegramLib.Models.ResultModel" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAEIIAAAEAAAAAAAAgAAAgA=</HashCode>
+      <FileName>TelegramLib\Models\ResultModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.TelegramLib.Models.TelegramMessageModel" Collapsed="true">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAQ=</HashCode>
+      <FileName>TelegramLib\Models\TelegramMessageModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApiFacade.TelegramLib.TelegramClient" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEgAAAAACAAAAAAACAAAAABAAAAAAAAAASAAAEAAAA=</HashCode>
+      <FileName>TelegramLib\TelegramClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

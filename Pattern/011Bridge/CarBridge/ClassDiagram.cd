@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarBridge.BodyType.CarBodyType" Collapsed="true">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BodyType\CarBodyType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.BodyType.Electric" Collapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BodyType\Electric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.BodyType.Sedan" Collapsed="true">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BodyType\Sedan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.BodyType.Sportback" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BodyType\Sportback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.BodyType.SUV" Collapsed="true">
+    <Position X="11.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>BodyType\SUV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Arguments.Engine" Collapsed="true">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arguments\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Arguments.Options" Collapsed="true">
+    <Position X="17.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arguments\Options.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Arguments.Suspension" Collapsed="true">
+    <Position X="18.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Arguments\Suspension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Audi.Audi" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\AudiAG\Audi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Audi.AudiRS4" Collapsed="true">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\AudiAG\AudiRS4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Audi.AudiRS5" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\AudiAG\AudiRS5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Audi.Etron" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\AudiAG\Etron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.BentleyMotors.Bentley" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\BentleyMotors\Bentley.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Bugatti.Bugatti" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\BugattiAutomobiles\Bugatti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.Ducati.Ducati" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\DucatiMotor\Ducati.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.PorscheAG.Porsche" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\PorscheAG\Porsche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.PorscheAG.PorscheMacan" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\PorscheAG\PorscheMacan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarBridge.Aktiengesellschaft.VolkswagenGroup" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Aktiengesellschaft\VolkswagenGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

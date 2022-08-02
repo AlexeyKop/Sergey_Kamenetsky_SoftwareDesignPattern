@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ex00_FactoryMethod.Customers.Dad" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Customers\Dad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Customers.Daughter" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Customers\Daughter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Customers.Mom" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Customers\Mom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Customers.Person" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAADAAAAAA=</HashCode>
+      <FileName>Customers\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Products.Cake" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Cake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Products.Coffe" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Coffe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Products.Milk" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Milk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ex00_FactoryMethod.Products.Product" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Products\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
